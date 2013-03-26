@@ -1,0 +1,221 @@
+K 25
+svn:wc:ra_dav:version-url
+V 26
+/svn/!svn/ver/12/src/sokit
+END
+clientskt.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/12/src/sokit/clientskt.cpp
+END
+baseform.h
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/12/src/sokit/baseform.h
+END
+transferform.ui
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/9/src/sokit/transferform.ui
+END
+transferskt.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/12/src/sokit/transferskt.cpp
+END
+clientform.h
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/1/src/sokit/clientform.h
+END
+helpform.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/4/src/sokit/helpform.cpp
+END
+setting.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/4/src/sokit/setting.cpp
+END
+transferform.h
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/1/src/sokit/transferform.h
+END
+notepadform.h
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/1/src/sokit/notepadform.h
+END
+logger.h
+K 25
+svn:wc:ra_dav:version-url
+V 34
+/svn/!svn/ver/1/src/sokit/logger.h
+END
+main.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 34
+/svn/!svn/ver/4/src/sokit/main.cpp
+END
+serverform.ui
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/9/src/sokit/serverform.ui
+END
+serverskt.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/12/src/sokit/serverskt.cpp
+END
+toolkit.h
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svn/!svn/ver/1/src/sokit/toolkit.h
+END
+sokit.png
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svn/!svn/ver/1/src/sokit/sokit.png
+END
+resource.h
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/1/src/sokit/resource.h
+END
+baseform.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/12/src/sokit/baseform.cpp
+END
+serverform.h
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/1/src/sokit/serverform.h
+END
+clientform.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/12/src/sokit/clientform.cpp
+END
+clientskt.h
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/12/src/sokit/clientskt.h
+END
+helpform.ui
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/9/src/sokit/helpform.ui
+END
+transferform.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/12/src/sokit/transferform.cpp
+END
+sokit.rc
+K 25
+svn:wc:ra_dav:version-url
+V 34
+/svn/!svn/ver/1/src/sokit/sokit.rc
+END
+transferskt.h
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/12/src/sokit/transferskt.h
+END
+notepadform.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/4/src/sokit/notepadform.cpp
+END
+icons.qrc
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svn/!svn/ver/1/src/sokit/icons.qrc
+END
+logger.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/4/src/sokit/logger.cpp
+END
+sokit.ico
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svn/!svn/ver/1/src/sokit/sokit.ico
+END
+helpform.h
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/4/src/sokit/helpform.h
+END
+setting.h
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svn/!svn/ver/4/src/sokit/setting.h
+END
+toolkit.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/4/src/sokit/toolkit.cpp
+END
+main.h
+K 25
+svn:wc:ra_dav:version-url
+V 32
+/svn/!svn/ver/4/src/sokit/main.h
+END
+serverform.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/12/src/sokit/serverform.cpp
+END
+sokit.ts
+K 25
+svn:wc:ra_dav:version-url
+V 34
+/svn/!svn/ver/9/src/sokit/sokit.ts
+END
+clientform.ui
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/9/src/sokit/clientform.ui
+END
+serverskt.h
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/12/src/sokit/serverskt.h
+END

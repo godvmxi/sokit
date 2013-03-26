@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svn/!svn/ver/12/build/win32/vs2010
+END
+Qt4VSPropertySheet.props
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/3/build/win32/vs2010/Qt4VSPropertySheet.props
+END
+sokit.vcxproj
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/12/build/win32/vs2010/sokit.vcxproj
+END
+sokit.sln
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/3/build/win32/vs2010/sokit.sln
+END
+sokit.vcxproj.filters
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/12/build/win32/vs2010/sokit.vcxproj.filters
+END
